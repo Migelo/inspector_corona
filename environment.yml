@@ -1,5 +1,5 @@
-name: python 3.6
+name: python
 dependencies:
-  - python=3.6
+  - python
   - numpy
   - matplotlib
